@@ -13,3 +13,7 @@ describe('app', function() {
     })
   })
 })
+
+describe('User', function() {
+  it('saves a record to the database')
+})
