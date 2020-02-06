@@ -1,4 +1,5 @@
 const chai = require('chai')
+const User = require('../../app/models/user')
 const supertest = require('supertest')
 /* ADD ME! */
 const app = require('../app')
